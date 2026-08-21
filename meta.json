@@ -1,0 +1,29 @@
+{
+  "repo": "lantern-vpn-pro-client",
+  "product": "Lantern VPN Pro Client",
+  "kind": "network",
+  "install_type": "nexpath",
+  "install_url": "https://lantern.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "network",
+  "topics": [
+    "lantern-vpn",
+    "vpn-client",
+    "secure-browsing",
+    "privacy-tools",
+    "encrypted-tunnel",
+    "network-privacy",
+    "proxy-vpn",
+    "online-security",
+    "lantern-setup-failed-fix",
+    "how-to-install-lantern-vpn",
+    "lantern-windows",
+    "network-tools",
+    "windows-tools",
+    "privacy-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "lantern",
+  "nexpath_app_name": "Lantern"
+}
